@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/21">
+   <children>
+      <AnchorPane prefHeight="547.0" prefWidth="537.0" styleClass="quiz" stylesheets="@style.css" />
+   </children>
+</AnchorPane>

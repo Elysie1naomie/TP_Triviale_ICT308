@@ -1,0 +1,18 @@
+.home{
+	
+	-fx-background-image:url("../Assets/home3.jpeg");
+	-fx-background-size : cover;
+}
+.button{
+	-fx-border-radius:50px;
+	-fx-background-color :linear-gradient(to left,#1732A1,#73549C);
+
+}
+.log{
+	-fx-background-image:url("../Assets/log.jpeg");
+	-fx-background-size : cover;
+}
+.quiz{
+	-fx-background-image:url("../Assets/quiz.jpeg");
+	-fx-background-size : cover;
+}
